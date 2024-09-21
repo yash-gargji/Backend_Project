@@ -1,3 +1,3 @@
-# A prject of bckend for handling youtubetype platform and tweets
+# A project of backend for fucntioning of  youtube and twitter integrated type platform and 
 
 - [Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
